@@ -1,0 +1,13 @@
+Git(shell)
+
+1. Github.com 
+a) Repo
+
+2.Clone
+
+3. Change Directory (CD)  (repo.name)
+
+4. Edit(IDE/Editor)
+5.add
+6.Commit
+7.Push
